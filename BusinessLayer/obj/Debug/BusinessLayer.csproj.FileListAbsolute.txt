@@ -1,0 +1,14 @@
+D:\downloads\JonasCodingTest-1-master\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\downloads\JonasCodingTest-1-master\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\downloads\JonasCodingTest-1-master\BusinessLayer\bin\Debug\AutoMapper.dll
+D:\downloads\JonasCodingTest-1-master\BusinessLayer\bin\Debug\AutoMapper.pdb
+D:\downloads\JonasCodingTest-1-master\BusinessLayer\bin\Debug\System.ValueTuple.dll
+D:\downloads\JonasCodingTest-1-master\BusinessLayer\bin\Debug\BusinessLayer.Model.dll
+D:\downloads\JonasCodingTest-1-master\BusinessLayer\bin\Debug\DataAccessLayer.Model.dll
+D:\downloads\JonasCodingTest-1-master\BusinessLayer\bin\Debug\BusinessLayer.Model.pdb
+D:\downloads\JonasCodingTest-1-master\BusinessLayer\bin\Debug\DataAccessLayer.Model.pdb
+D:\downloads\JonasCodingTest-1-master\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+D:\downloads\JonasCodingTest-1-master\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\downloads\JonasCodingTest-1-master\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+D:\downloads\JonasCodingTest-1-master\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\downloads\JonasCodingTest-1-master\BusinessLayer\obj\Debug\BusinessLayer.pdb

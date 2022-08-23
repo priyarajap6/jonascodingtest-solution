@@ -1,0 +1,9 @@
+D:\downloads\JonasCodingTest-1-master\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\downloads\JonasCodingTest-1-master\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\downloads\JonasCodingTest-1-master\DataAccessLayer\bin\Debug\DataAccessLayer.Model.dll
+D:\downloads\JonasCodingTest-1-master\DataAccessLayer\bin\Debug\DataAccessLayer.Model.pdb
+D:\downloads\JonasCodingTest-1-master\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+D:\downloads\JonasCodingTest-1-master\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\downloads\JonasCodingTest-1-master\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+D:\downloads\JonasCodingTest-1-master\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\downloads\JonasCodingTest-1-master\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

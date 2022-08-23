@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\downloads\\JonasCodingTest-1-master\\BusinessLayer\\BusinessLayer.csproj": {}
+  },
+  "projects": {
+    "D:\\downloads\\JonasCodingTest-1-master\\BusinessLayer.Model\\BusinessLayer.Model.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\downloads\\JonasCodingTest-1-master\\BusinessLayer.Model\\BusinessLayer.Model.csproj",
+        "projectName": "BusinessLayer.Model",
+        "projectPath": "D:\\downloads\\JonasCodingTest-1-master\\BusinessLayer.Model\\BusinessLayer.Model.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\downloads\\JonasCodingTest-1-master\\BusinessLayer\\BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\downloads\\JonasCodingTest-1-master\\BusinessLayer\\BusinessLayer.csproj",
+        "projectName": "BusinessLayer",
+        "projectPath": "D:\\downloads\\JonasCodingTest-1-master\\BusinessLayer\\BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\Raj S\\.nuget\\packages\\",
+        "outputPath": "D:\\downloads\\JonasCodingTest-1-master\\BusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Raj S\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\downloads\\JonasCodingTest-1-master\\BusinessLayer.Model\\BusinessLayer.Model.csproj": {
+                "projectPath": "D:\\downloads\\JonasCodingTest-1-master\\BusinessLayer.Model\\BusinessLayer.Model.csproj"
+              },
+              "D:\\downloads\\JonasCodingTest-1-master\\DataLayer.Model\\DataAccessLayer.Model.csproj": {
+                "projectPath": "D:\\downloads\\JonasCodingTest-1-master\\DataLayer.Model\\DataAccessLayer.Model.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\downloads\\JonasCodingTest-1-master\\DataLayer.Model\\DataAccessLayer.Model.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\downloads\\JonasCodingTest-1-master\\DataLayer.Model\\DataAccessLayer.Model.csproj",
+        "projectName": "DataAccessLayer.Model",
+        "projectPath": "D:\\downloads\\JonasCodingTest-1-master\\DataLayer.Model\\DataAccessLayer.Model.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
